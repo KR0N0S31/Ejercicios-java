@@ -93,5 +93,6 @@ public class PerimetroTriangulos {
             System.out.println("El perimetro del mayor escaleno es " + perimetro_mayor_es);
             System.out.println("El perimetro del menor escaleno es " + perimetro_menor_es);
         }
+        reader.close();
     }
 }

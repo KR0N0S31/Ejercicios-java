@@ -37,6 +37,7 @@ public class Fibonacci {
             System.out.println("El menor numero fibonacci ingresado fue: "+menor_nf);
             System.out.println("El promedio de los numeros fibonacci ingresados es: "+ prom_nf);
         }
+        reader.close();
     }
     public static boolean pertenece_sf(int n){
         int a = 0;
