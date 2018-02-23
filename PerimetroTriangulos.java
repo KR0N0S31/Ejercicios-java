@@ -90,7 +90,7 @@ public class PerimetroTriangulos {
             System.out.println("El perimetro del menor isósceles es " + perimetro_menor_i);
         }
         if (marca_es == 1) {
-            System.out.println("El perimetro del mayor escaleno es " + perimetro_mayor_es;
+            System.out.println("El perimetro del mayor escaleno es " + perimetro_mayor_es);
             System.out.println("El perimetro del menor escaleno es " + perimetro_menor_es);
         }
     }
